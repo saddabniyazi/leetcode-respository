@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/saddabniyazi/leetcode-respository/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/saddabniyazi/leetcode-respository/tree/master/0347-top-k-frequent-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/saddabniyazi/leetcode-respository/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/saddabniyazi/leetcode-respository/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saddabniyazi/leetcode-respository/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/saddabniyazi/leetcode-respository/tree/master/0110-balanced-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/saddabniyazi/leetcode-respository/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
