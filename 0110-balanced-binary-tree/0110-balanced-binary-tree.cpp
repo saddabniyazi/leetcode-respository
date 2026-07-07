@@ -10,17 +10,15 @@
  * };
  */
 class Solution {
-    private:
-     int dfs(TreeNode* root){
-        if(root==NULL) return 0;
-        int lh=dfs(root->left);
-        int rh=dfs(root->right);
-          if(lh==-1 || rh==-1) return -1;
-        if(abs(lh-rh)>1) return -1;
-        return 1+max(lh,rh);
-     }
 public:
+   int height(TreeNode* root){
+    if(root==NULL) return 0;
+    return 1+max(height(root->left),height(root->right));
+   }
     bool isBalanced(TreeNode* root) {
-       return dfs(root)!=-1;
+        if(root ==NULL) return true;
+        int lh=height(root->left);
+        int rh=height(root->right);
+        return (abs(lh-rh)<=1) && isBalanced(root->left) && isBalanced(root->right);
     }
 };
