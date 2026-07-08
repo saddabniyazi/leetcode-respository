@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/saddabniyazi/leetcode-respository/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/saddabniyazi/leetcode-respository/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/saddabniyazi/leetcode-respository/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/saddabniyazi/leetcode-respository/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/saddabniyazi/leetcode-respository/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/saddabniyazi/leetcode-respository/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/saddabniyazi/leetcode-respository/tree/master/0485-max-consecutive-ones) |
@@ -22,22 +23,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/saddabniyazi/leetcode-respository/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/saddabniyazi/leetcode-respository/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/saddabniyazi/leetcode-respository/tree/master/0347-top-k-frequent-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/saddabniyazi/leetcode-respository/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saddabniyazi/leetcode-respository/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/saddabniyazi/leetcode-respository/tree/master/0347-top-k-frequent-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/saddabniyazi/leetcode-respository/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saddabniyazi/leetcode-respository/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/saddabniyazi/leetcode-respository/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/saddabniyazi/leetcode-respository/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/saddabniyazi/leetcode-respository/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saddabniyazi/leetcode-respository/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/saddabniyazi/leetcode-respository/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
