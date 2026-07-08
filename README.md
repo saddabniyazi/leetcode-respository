@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/saddabniyazi/leetcode-respository/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/saddabniyazi/leetcode-respository/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/saddabniyazi/leetcode-respository/tree/master/0485-max-consecutive-ones) |
 | [1833-maximum-ice-cream-bars](https://github.com/saddabniyazi/leetcode-respository/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
 |  |
