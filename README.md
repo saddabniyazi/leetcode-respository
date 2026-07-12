@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/saddabniyazi/leetcode-respository/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/saddabniyazi/leetcode-respository/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/saddabniyazi/leetcode-respository/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/saddabniyazi/leetcode-respository/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/saddabniyazi/leetcode-respository/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/saddabniyazi/leetcode-respository/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/saddabniyazi/leetcode-respository/tree/master/0485-max-consecutive-ones) |
@@ -31,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/saddabniyazi/leetcode-respository/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/saddabniyazi/leetcode-respository/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/saddabniyazi/leetcode-respository/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/saddabniyazi/leetcode-respository/tree/master/0347-top-k-frequent-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/saddabniyazi/leetcode-respository/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saddabniyazi/leetcode-respository/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/saddabniyazi/leetcode-respository/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/saddabniyazi/leetcode-respository/tree/master/0347-top-k-frequent-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/saddabniyazi/leetcode-respository/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/saddabniyazi/leetcode-respository/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/saddabniyazi/leetcode-respository/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/saddabniyazi/leetcode-respository/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/saddabniyazi/leetcode-respository/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/saddabniyazi/leetcode-respository/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/saddabniyazi/leetcode-respository/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
