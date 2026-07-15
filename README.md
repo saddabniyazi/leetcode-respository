@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/saddabniyazi/leetcode-respository/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/saddabniyazi/leetcode-respository/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/saddabniyazi/leetcode-respository/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/saddabniyazi/leetcode-respository/tree/master/0704-binary-search) |
 | [1833-maximum-ice-cream-bars](https://github.com/saddabniyazi/leetcode-respository/tree/master/1833-maximum-ice-cream-bars) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saddabniyazi/leetcode-respository/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/saddabniyazi/leetcode-respository/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/saddabniyazi/leetcode-respository/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
