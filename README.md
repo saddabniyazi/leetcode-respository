@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/saddabniyazi/leetcode-respository/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/saddabniyazi/leetcode-respository/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/saddabniyazi/leetcode-respository/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saddabniyazi/leetcode-respository/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1833-maximum-ice-cream-bars](https://github.com/saddabniyazi/leetcode-respository/tree/master/1833-maximum-ice-cream-bars) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saddabniyazi/leetcode-respository/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/saddabniyazi/leetcode-respository/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/saddabniyazi/leetcode-respository/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/saddabniyazi/leetcode-respository/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saddabniyazi/leetcode-respository/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Linked List
 |  |
 | ------- |
