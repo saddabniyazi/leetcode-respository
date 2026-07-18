@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/saddabniyazi/leetcode-respository/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saddabniyazi/leetcode-respository/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1833-maximum-ice-cream-bars](https://github.com/saddabniyazi/leetcode-respository/tree/master/1833-maximum-ice-cream-bars) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/saddabniyazi/leetcode-respository/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saddabniyazi/leetcode-respository/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/saddabniyazi/leetcode-respository/tree/master/0048-rotate-image) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/saddabniyazi/leetcode-respository/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saddabniyazi/leetcode-respository/tree/master/0020-valid-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/saddabniyazi/leetcode-respository/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
