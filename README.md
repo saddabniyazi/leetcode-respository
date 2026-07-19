@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/saddabniyazi/leetcode-respository/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/saddabniyazi/leetcode-respository/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saddabniyazi/leetcode-respository/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/saddabniyazi/leetcode-respository/tree/master/1539-kth-missing-positive-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/saddabniyazi/leetcode-respository/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saddabniyazi/leetcode-respository/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saddabniyazi/leetcode-respository/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/saddabniyazi/leetcode-respository/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/saddabniyazi/leetcode-respository/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saddabniyazi/leetcode-respository/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/saddabniyazi/leetcode-respository/tree/master/1539-kth-missing-positive-number) |
 ## Linked List
 |  |
 | ------- |
