@@ -13,10 +13,8 @@ public:
             }
         }
           vector<vector<int>>ans;
-          while(pq.empty()==false){
-              int q=points[pq.top().second][0];
-              int r=points[pq.top().second][1];
-              ans.push_back({q,r});
+          while(pq.empty()==false){    
+              ans.push_back(points[pq.top().second]);
               pq.pop();
           }
           return ans;
