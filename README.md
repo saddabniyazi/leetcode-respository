@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/saddabniyazi/leetcode-respository/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/saddabniyazi/leetcode-respository/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saddabniyazi/leetcode-respository/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/saddabniyazi/leetcode-respository/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/saddabniyazi/leetcode-respository/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/saddabniyazi/leetcode-respository/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/saddabniyazi/leetcode-respository/tree/master/0973-k-closest-points-to-origin) |
@@ -109,11 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/saddabniyazi/leetcode-respository/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saddabniyazi/leetcode-respository/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/saddabniyazi/leetcode-respository/tree/master/0110-balanced-binary-tree) |
+| [0695-max-area-of-island](https://github.com/saddabniyazi/leetcode-respository/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/saddabniyazi/leetcode-respository/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saddabniyazi/leetcode-respository/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/saddabniyazi/leetcode-respository/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -154,12 +157,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/saddabniyazi/leetcode-respository/tree/master/0128-longest-consecutive-sequence) |
+| [0695-max-area-of-island](https://github.com/saddabniyazi/leetcode-respository/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/saddabniyazi/leetcode-respository/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saddabniyazi/leetcode-respository/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/saddabniyazi/leetcode-respository/tree/master/0073-set-matrix-zeroes) |
+| [0695-max-area-of-island](https://github.com/saddabniyazi/leetcode-respository/tree/master/0695-max-area-of-island) |
 ## Math
 |  |
 | ------- |
