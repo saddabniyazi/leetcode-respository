@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/saddabniyazi/leetcode-respository/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/saddabniyazi/leetcode-respository/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/saddabniyazi/leetcode-respository/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/saddabniyazi/leetcode-respository/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saddabniyazi/leetcode-respository/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saddabniyazi/leetcode-respository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/saddabniyazi/leetcode-respository/tree/master/1539-kth-missing-positive-number) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/saddabniyazi/leetcode-respository/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saddabniyazi/leetcode-respository/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/saddabniyazi/leetcode-respository/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/saddabniyazi/leetcode-respository/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/saddabniyazi/leetcode-respository/tree/master/1905-count-sub-islands) |
 ## Breadth-First Search
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/saddabniyazi/leetcode-respository/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/saddabniyazi/leetcode-respository/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/saddabniyazi/leetcode-respository/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/saddabniyazi/leetcode-respository/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/saddabniyazi/leetcode-respository/tree/master/1905-count-sub-islands) |
 ## Binary Tree
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/saddabniyazi/leetcode-respository/tree/master/0128-longest-consecutive-sequence) |
 | [0695-max-area-of-island](https://github.com/saddabniyazi/leetcode-respository/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/saddabniyazi/leetcode-respository/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/saddabniyazi/leetcode-respository/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/saddabniyazi/leetcode-respository/tree/master/1905-count-sub-islands) |
 ## Matrix
 |  |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/saddabniyazi/leetcode-respository/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/saddabniyazi/leetcode-respository/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/saddabniyazi/leetcode-respository/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/saddabniyazi/leetcode-respository/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/saddabniyazi/leetcode-respository/tree/master/1905-count-sub-islands) |
 ## Math
 |  |
