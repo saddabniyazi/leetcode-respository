@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/saddabniyazi/leetcode-respository/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/saddabniyazi/leetcode-respository/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/saddabniyazi/leetcode-respository/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/saddabniyazi/leetcode-respository/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/saddabniyazi/leetcode-respository/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/saddabniyazi/leetcode-respository/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/saddabniyazi/leetcode-respository/tree/master/1020-number-of-enclaves) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/saddabniyazi/leetcode-respository/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saddabniyazi/leetcode-respository/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/saddabniyazi/leetcode-respository/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/saddabniyazi/leetcode-respository/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saddabniyazi/leetcode-respository/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/saddabniyazi/leetcode-respository/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/saddabniyazi/leetcode-respository/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saddabniyazi/leetcode-respository/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/saddabniyazi/leetcode-respository/tree/master/3536-maximum-product-of-two-digits) |
@@ -265,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/saddabniyazi/leetcode-respository/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/saddabniyazi/leetcode-respository/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/saddabniyazi/leetcode-respository/tree/master/1757-recyclable-and-low-fat-products) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/saddabniyazi/leetcode-respository/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
