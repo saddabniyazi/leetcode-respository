@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/saddabniyazi/leetcode-respository/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saddabniyazi/leetcode-respository/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/saddabniyazi/leetcode-respository/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/saddabniyazi/leetcode-respository/tree/master/0877-stone-game) |
 ## Simulation
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/saddabniyazi/leetcode-respository/tree/master/0048-rotate-image) |
+| [0509-fibonacci-number](https://github.com/saddabniyazi/leetcode-respository/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saddabniyazi/leetcode-respository/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/saddabniyazi/leetcode-respository/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/saddabniyazi/leetcode-respository/tree/master/0973-k-closest-points-to-origin) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/saddabniyazi/leetcode-respository/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saddabniyazi/leetcode-respository/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/saddabniyazi/leetcode-respository/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -291,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/saddabniyazi/leetcode-respository/tree/master/0877-stone-game) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/saddabniyazi/leetcode-respository/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
