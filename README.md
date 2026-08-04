@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/saddabniyazi/leetcode-respository/tree/master/1905-count-sub-islands) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saddabniyazi/leetcode-respository/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saddabniyazi/leetcode-respository/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3731-find-missing-elements](https://github.com/saddabniyazi/leetcode-respository/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saddabniyazi/leetcode-respository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/saddabniyazi/leetcode-respository/tree/master/1833-maximum-ice-cream-bars) |
 | [3536-maximum-product-of-two-digits](https://github.com/saddabniyazi/leetcode-respository/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/saddabniyazi/leetcode-respository/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/saddabniyazi/leetcode-respository/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/saddabniyazi/leetcode-respository/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/saddabniyazi/leetcode-respository/tree/master/0560-subarray-sum-equals-k) |
+| [3731-find-missing-elements](https://github.com/saddabniyazi/leetcode-respository/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
