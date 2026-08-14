@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saddabniyazi/leetcode-respository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/saddabniyazi/leetcode-respository/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/saddabniyazi/leetcode-respository/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/saddabniyazi/leetcode-respository/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saddabniyazi/leetcode-respository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/saddabniyazi/leetcode-respository/tree/master/0110-balanced-binary-tree) |
 | [0695-max-area-of-island](https://github.com/saddabniyazi/leetcode-respository/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saddabniyazi/leetcode-respository/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/saddabniyazi/leetcode-respository/tree/master/0743-network-delay-time) |
 | [1020-number-of-enclaves](https://github.com/saddabniyazi/leetcode-respository/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/saddabniyazi/leetcode-respository/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/saddabniyazi/leetcode-respository/tree/master/1905-count-sub-islands) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/saddabniyazi/leetcode-respository/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/saddabniyazi/leetcode-respository/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saddabniyazi/leetcode-respository/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/saddabniyazi/leetcode-respository/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/saddabniyazi/leetcode-respository/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/saddabniyazi/leetcode-respository/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/saddabniyazi/leetcode-respository/tree/master/1254-number-of-closed-islands) |
@@ -312,4 +315,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saddabniyazi/leetcode-respository/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/saddabniyazi/leetcode-respository/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/saddabniyazi/leetcode-respository/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/saddabniyazi/leetcode-respository/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
