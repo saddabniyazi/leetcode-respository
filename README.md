@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/saddabniyazi/leetcode-respository/tree/master/1905-count-sub-islands) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saddabniyazi/leetcode-respository/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saddabniyazi/leetcode-respository/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/saddabniyazi/leetcode-respository/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/saddabniyazi/leetcode-respository/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/saddabniyazi/leetcode-respository/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/saddabniyazi/leetcode-respository/tree/master/0191-number-of-1-bits) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/saddabniyazi/leetcode-respository/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/saddabniyazi/leetcode-respository/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
 |  |
 | ------- |
