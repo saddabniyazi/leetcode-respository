@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/saddabniyazi/leetcode-respository/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/saddabniyazi/leetcode-respository/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/saddabniyazi/leetcode-respository/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/saddabniyazi/leetcode-respository/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/saddabniyazi/leetcode-respository/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/saddabniyazi/leetcode-respository/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saddabniyazi/leetcode-respository/tree/master/0628-maximum-product-of-three-numbers) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/saddabniyazi/leetcode-respository/tree/master/0455-assign-cookies) |
 | [1833-maximum-ice-cream-bars](https://github.com/saddabniyazi/leetcode-respository/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/saddabniyazi/leetcode-respository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/saddabniyazi/leetcode-respository/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/saddabniyazi/leetcode-respository/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/saddabniyazi/leetcode-respository/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saddabniyazi/leetcode-respository/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/saddabniyazi/leetcode-respository/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saddabniyazi/leetcode-respository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/saddabniyazi/leetcode-respository/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/saddabniyazi/leetcode-respository/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/saddabniyazi/leetcode-respository/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/saddabniyazi/leetcode-respository/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/saddabniyazi/leetcode-respository/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saddabniyazi/leetcode-respository/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -339,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/saddabniyazi/leetcode-respository/tree/master/0743-network-delay-time) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/saddabniyazi/leetcode-respository/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
