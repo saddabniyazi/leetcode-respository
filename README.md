@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/saddabniyazi/leetcode-respository/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/saddabniyazi/leetcode-respository/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/saddabniyazi/leetcode-respository/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/saddabniyazi/leetcode-respository/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/saddabniyazi/leetcode-respository/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/saddabniyazi/leetcode-respository/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saddabniyazi/leetcode-respository/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/saddabniyazi/leetcode-respository/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/saddabniyazi/leetcode-respository/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/saddabniyazi/leetcode-respository/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/saddabniyazi/leetcode-respository/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/saddabniyazi/leetcode-respository/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/saddabniyazi/leetcode-respository/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saddabniyazi/leetcode-respository/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/saddabniyazi/leetcode-respository/tree/master/1539-kth-missing-positive-number) |
 ## Linked List
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saddabniyazi/leetcode-respository/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/saddabniyazi/leetcode-respository/tree/master/1004-max-consecutive-ones-iii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saddabniyazi/leetcode-respository/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Graph Theory
 |  |
